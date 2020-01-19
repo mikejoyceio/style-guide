@@ -4,7 +4,7 @@
   "description": "",
   "main": "watch.js",
   "dependencies": {
-    "command-exists": "1.0.2",
+    "command-exists": "1.2.8",
     "harp": "0.23.0",
     "js-beautify": "1.6.2",
     "livereload": "0.4.1",
